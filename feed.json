@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "myhd-iptv",
+    "description": "",
+    "home_page_url": "https://myhd-iptv.pages.dev",
+    "feed_url": "https://myhd-iptv.pages.dev/feed.json",
+    "user_comment": "",
+    "icon": "https://myhd-iptv.pages.dev/media/website/XKz4XSP3zYU0koZVRH2eAm19KKzvtCGj6GkudWOt.jpeg",
+    "author": {
+        "name": "myhd-team"
+    },
+    "items": [
+    ]
+}
